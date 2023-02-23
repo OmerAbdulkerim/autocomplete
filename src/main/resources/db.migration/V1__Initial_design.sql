@@ -1,5 +1,5 @@
 /*
-Alter permissions regulations and File path Accordingly. 
+Alter permissions regulations and File path Accordingly.
 */
 
 /*CREATE TABLE IF NOT EXISTS contact (
